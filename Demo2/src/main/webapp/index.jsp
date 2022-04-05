@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>This is a CI-CD project Demo. Welcome...</h2>
 </body>
 </html>
