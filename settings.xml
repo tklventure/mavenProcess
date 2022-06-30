@@ -9,12 +9,12 @@
     </server>
     <server>
       <username>admin</username>
-      <password>adminadmin</password>
+      <password>Muruga@123</password>
       <id>snapshots</id>
     </server>
     <server>
       <username>admin</username>
-      <password>admin</password>
+      <password>Muruga@123</password>
       <id>sonar</id>
     </server>
   </servers>
