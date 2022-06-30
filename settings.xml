@@ -4,7 +4,7 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>adminadmin</password>
+      <password>Muruga@123</password>
       <id>central</id>
     </server>
     <server>
@@ -14,7 +14,7 @@
     </server>
     <server>
       <username>admin</username>
-      <password>Muruga@123</password>
+      <password>admin</password>
       <id>sonar</id>
     </server>
   </servers>
